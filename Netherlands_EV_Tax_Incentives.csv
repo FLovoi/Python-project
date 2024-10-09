@@ -1,0 +1,10 @@
+EV Type,Tax Type,Tax Benefit,Date
+Fully-electric,BPM (Purchase Tax),Fully exempt from BPM,Until 2024
+Fully-electric,BPM (Purchase Tax),Discounted BPM rate of €360 per car,2025
+Fully-electric,BPM (Purchase Tax),"Discounted, but gradually increasing BPM tax per car",2026 & onwards
+Plug-In Hybrid,BPM (Purchase Tax),Discounted BPM tax based on CO2 emissions of the car,July 2020 & onwards
+Plug-In Hybrid,BPM (Purchase Tax),Discounted BPM tax based on CO2 emissions of the car,July 2020 & onwards
+Fully-electric,MRB (Ownership Tax),Fully exempt from MRB,Until 2024
+Fully-electric,MRB (Ownership Tax),75% discount on MRB tax,2025
+Plug-In Hybrid,MRB (Ownership Tax),50% discount on MRB tax,Until 2024
+Plug-In Hybrid,MRB (Ownership Tax),25% discount on MRB tax,2026 & onwards
