@@ -1,0 +1,38 @@
+﻿Modes of transport;Travel motives;number;number;number;number;number;number;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;number;number;number;number;number;number;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;number;number;number;number;number;number;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;number;number;number;number;number;number;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers;passenger kilometers
+Bicycle;To and from work;53;51;39;42;44;45;224;202;173;178;180;188;54;52;38;40;48;46;225;236;152;167;214;208;54;48;37;37;42;44;278;256;171;173;204;220;47;47;32;31;41;40;212;212;139;129;196;188
+Bicycle;Business, professional;.;.;.;.;.;.;.;.;.;.;.;.;4;4;4;4;5;4;17;18;14;15;17;20;3;5;3;4;4;4;14;23;12;16;18;21;3;3;3;3;4;4;13;13;10;11;16;13
+Bicycle;Services, personal care;7;7;.;8;11;8;19;20;.;22;31;18;8;8;7;8;11;10;19;24;20;23;26;26;9;9;6;9;9;8;23;22;18;26;24;24;7;8;6;8;8;7;18;21;15;21;21;20
+Bicycle;Shopping, grocery shopping;63;60;60;55;62;58;141;137;129;109;134;126;66;63;60;57;73;65;140;137;119;119;157;133;62;59;58;55;63;60;130;121;116;112;128;128;52;46;48;45;53;49;109;97;98;91;115;104
+Bicycle;Follow education, course, childcare;47;46;28;29;37;33;182;170;110;110;156;148;51;49;32;29;37;40;192;182;122;112;140;159;42;42;27;28;35;34;145;146;90;91;123;125;39;36;24;24;29;30;143;134;80;83;111;117
+Bicycle;Visit, stay overnight;27;23;23;24;22;25;84;73;68;60;73;80;25;24;24;27;25;26;80;71;73;95;87;84;21;20;19;20;20;20;77;72;71;74;76;74;22;22;20;22;23;21;86;70;64;69;82;75
+Bicycle;Going out, sports, hobby;58;57;38;37;47;58;234;244;177;209;200;224;62;61;41;43;61;58;247;243;184;202;260;227;63;61;43;43;61;62;256;231;201;198;246;244;51;49;34;38;49;48;211;214;167;189;225;226
+Bicycle;Touring, walking;13;13;16;18;17;14;237;214;260;294;299;237;13;12;16;16;14;13;218;203;255;253;213;203;11;10;15;14;14;11;183;159;237;230;210;167;12;11;14;14;13;11;244;224;245;244;247;212
+Bicycle;Other travel motives;28;27;22;25;25;26;53;55;42;57;56;63;30;25;26;28;30;27;57;54;56;62;59;55;27;27;24;26;29;27;59;64;53;58;65;63;21;17;20;17;21;20;41;39;50;37;47;43
+Bron: CBS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Regions;Periods;To and from work;Business, professional;Services, personal care;Shopping, grocery shopping;Follow education, course, childcare;Visit, stay overnight;Going out, sports, hobby;Touring, walking;Other travel motives;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2018;53;.;7;63;47;27;58;13;28;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2019;51;.;7;60;46;23;57;13;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2020;39;.;.;60;28;23;38;16;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2021;42;.;8;55;29;24;37;18;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2022;44;.;11;62;37;22;47;17;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Northern Netherlands (LD);2023;45;.;8;58;33;25;58;14;26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2018;54;4;8;66;51;25;62;13;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2019;52;4;8;63;49;24;61;12;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2020;38;4;7;60;32;24;41;16;26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2021;40;4;8;57;29;27;43;16;28;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2022;48;5;11;73;37;25;61;14;30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;East Netherlands (LD);2023;46;4;10;65;40;26;58;13;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2018;54;3;9;62;42;21;63;11;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2019;48;5;9;59;42;20;61;10;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2020;37;3;6;58;27;19;43;15;24;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2021;37;4;9;55;28;20;43;14;26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2022;42;4;9;63;35;20;61;14;29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;West Netherlands (LD);2023;44;4;8;60;34;20;62;11;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2018;47;3;7;52;39;22;51;12;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2019;47;3;8;46;36;22;49;11;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2020;32;3;6;48;24;20;34;14;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2021;31;3;8;45;24;22;38;14;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2022;41;4;8;53;29;23;49;13;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;South Netherlands (LD);2023;40;4;7;49;30;21;48;11;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
